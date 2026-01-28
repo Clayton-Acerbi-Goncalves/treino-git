@@ -1,4 +1,4 @@
-Hello from MAIN and FEATURE
+Hello from FEATURE UPDATED
 Another line
 Third line
 Feature work
