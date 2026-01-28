@@ -3,3 +3,6 @@ Another line
 Third line
 Feature work
 GitHub flow test
+Line 1
+Line 2
+Line 3
