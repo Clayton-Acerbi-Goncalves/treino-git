@@ -1,3 +1,3 @@
-Hello Git
+Hello from MAIN
 Another line
 Third line
