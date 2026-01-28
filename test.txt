@@ -1,6 +1,5 @@
 
-Hello from MAIN UPDATE
-Hello from FEATURE UPDATED
+Hello from MAIN UPDATED
 Another line
 Third line
 Feature work
