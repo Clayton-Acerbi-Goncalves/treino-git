@@ -1,4 +1,4 @@
-Hello Git
+Hello from FEATURE
 Another line
 Third line
 Feature work
